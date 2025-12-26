@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+soundfile
+praat-parselmouth
+torch
+torchaudio
+transformers
+pyannote.audio>=3.1
+faster-whisper
+torchcrepe
+git+https://github.com/RicherMans/SAT
